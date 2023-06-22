@@ -1,0 +1,8 @@
+//Library Used
+
+
+//for css
+[   "name":"tailwind",
+    "website":"https://tailwindcss.com/docs/guides/nextjs",
+    "terminal code" :"install -D tailwindcss postcss autoprefixer"
+]
